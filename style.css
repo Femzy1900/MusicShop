@@ -23,3 +23,16 @@ nav ul {
 .tour h2 {
     text-align: center;
 }
+
+.tour-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.tour-row {
+    padding-top: 20px;
+    border-bottom: 1px solid black;
+    width: 50%;
+}   
